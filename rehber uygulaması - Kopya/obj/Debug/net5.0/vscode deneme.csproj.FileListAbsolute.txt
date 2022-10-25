@@ -1,0 +1,48 @@
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.exe
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.deps.json
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.runtimeconfig.json
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.runtimeconfig.dev.json
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\ref\vscode deneme.dll
+C:\Users\ataka\Desktop\vscode deneme\bin\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.csproj.AssemblyReference.cache
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.AssemblyInfoInputs.cache
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.AssemblyInfo.cs
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\ref\vscode deneme.dll
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\vscode deneme\obj\Debug\net5.0\vscode deneme.genruntimeconfig.cache
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.exe
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.deps.json
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.runtimeconfig.json
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.runtimeconfig.dev.json
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\ref\vscode deneme.dll
+C:\Users\ataka\Desktop\rehber uygulaması\bin\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.csproj.AssemblyReference.cache
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.AssemblyInfoInputs.cache
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.AssemblyInfo.cs
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\ref\vscode deneme.dll
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\rehber uygulaması\obj\Debug\net5.0\vscode deneme.genruntimeconfig.cache
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.csproj.AssemblyReference.cache
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.AssemblyInfoInputs.cache
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.AssemblyInfo.cs
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.exe
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.deps.json
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.runtimeconfig.json
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.runtimeconfig.dev.json
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.dll
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\bin\Debug\net5.0\vscode deneme.pdb
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\refint\vscode deneme.dll
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\vscode deneme.genruntimeconfig.cache
+C:\Users\ataka\Desktop\C#\rehber uygulaması - Kopya\obj\Debug\net5.0\ref\vscode deneme.dll
