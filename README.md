@@ -1,2 +1,2 @@
 # contactprogram
-Contact program with C language
+Contact program with C# language
